@@ -14,7 +14,7 @@ arr=[]
 for i in worddict.keys():
 	arr.append(worddict[i])
 model=Word2Vec(arr,min_count=1)
-print(model.most_similar('supernatural',topn=10))
+print(model.wv.most_similar('supernatural',topn=10))
 
 #print(worddict)
 #print(models.similarity('france','spain'))
