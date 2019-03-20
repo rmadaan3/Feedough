@@ -1,0 +1,16 @@
+biblio-
+-eme
+-glossia
+gloss(o)-
+-glot
+-gram
+graph(o)-
+-graphy
+-lect
+-lepsis
+logo-
+-logue
+-onym
+semio-
+-speak
+-word
