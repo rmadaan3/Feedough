@@ -43,20 +43,6 @@ except:
     print(word2vec.most_similar(s))  
     word2vec.save("word2vec.model")
 #print(word2vec.most_similar('Knowledge'))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # arr = nltk.sent_tokenize(word)
 # arr1=[nltk.word_tokenize(sent) for sent in arr]
 # #worddict['s'].append('supernatural')
